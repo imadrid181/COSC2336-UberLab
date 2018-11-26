@@ -1,0 +1,8 @@
+Statistics for Simulation of UberLog.txt 
+Simulation was ran for 360 Minutes. 
+The Driver processed 18 request and earned a total of 513.21$ 
+The Driver drove 341 miles.
+27 drives were not processed. 
+786.4$ were missed from drives that were not processed. 
+The Average Wait Time for requests was 125 minutes. 
+The Driver was without a rider for a total of 20 minutes. 
